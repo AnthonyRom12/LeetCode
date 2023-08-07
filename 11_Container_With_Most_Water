@@ -22,3 +22,6 @@ class Solution:
             else:
                 i += 1
         return answer
+
+obj = Solution()
+print(obj.maxArea)
