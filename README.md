@@ -1,7 +1,7 @@
 # LeetCode
 __*LeetCode Problems Solving*__
 
-Here I will post my solutions from LeetCode 
+Here I will post my solutions from LeetCode.
 <p>My stack:</p>
 
 <div align="left">
