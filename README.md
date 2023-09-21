@@ -2,7 +2,7 @@
 __*LeetCode Problems Solving*__
 
 Here I will post my solutions from LeetCode.
-<p>My stack:</p>
+<h3 align="left">🔥   My Stack :</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
